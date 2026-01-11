@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cyberpunk Tarot</title>
+  <meta name="description" content="A cyberpunk-themed Major Arcana tarot deck">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navigation (hidden on landing) -->
+  <nav id="main-nav" class="hidden">
+    <div class="nav-logo">Cyberpunk Tarot</div>
+    <div class="nav-links">
+      <a href="#" data-page="landing">Home</a>
+      <a href="#" data-page="reading">Draw</a>
+      <a href="#" data-page="gallery">Gallery</a>
+    </div>
+  </nav>
+
+  <!-- ═══════════════════════════════════════════════════════════════
+       LANDING PAGE
+       ═══════════════════════════════════════════════════════════════ -->
+  <section id="landing-page" class="landing-page page-section active">
+
+    <div class="landing-header">
+      <div class="landing-logo">Cyberpunk Tarot v1.0</div>
+      <div class="landing-status">System Online</div>
+    </div>
+
+    <div class="landing-main">
+      <h1 class="landing-title">
+        <span>Cyberpunk</span>
+        <span class="accent">Tarot</span>
+      </h1>
+
+      <p class="landing-desc">
+        22 cards. Major Arcana. Digital divination for the neon age.
+        Draw a card and receive your reading.
+      </p>
+
+      <div class="landing-actions">
+        <button class="btn btn-primary" id="draw-card-btn">Draw Card</button>
+        <a href="#" class="btn" data-page="gallery">Browse Deck</a>
+      </div>
+    </div>
+
+    <div class="landing-footer">
+      <span>Major Arcana /// 22 Cards</span>
+      <span>2024</span>
+    </div>
+
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════
+       READING PAGE
+       ═══════════════════════════════════════════════════════════════ -->
+  <section id="reading-page" class="page-section">
+    <div class="reading-container">
+
+      <div class="reading-card-section">
+        <div class="card-flip-container">
+          <div class="card-flip" id="card-flip">
+            <div class="card-face card-front">
+              <div class="card-front-design">Draw</div>
+            </div>
+            <div class="card-face card-back">
+              <img id="reading-image" src="" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="reading-info-section">
+        <p class="reading-number" id="reading-number"></p>
+        <h2 class="reading-title" id="reading-title"></h2>
+        <p class="reading-text" id="reading-text"></p>
+
+        <div class="reading-actions">
+          <button class="btn btn-primary" id="draw-another-btn">Draw Again</button>
+          <a href="#" class="btn" data-page="gallery">View Deck</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════
+       GALLERY PAGE
+       ═══════════════════════════════════════════════════════════════ -->
+  <section id="gallery-page" class="page-section gallery-page">
+    <header class="page-header">
+      <div class="page-header-inner">
+        <h1 class="page-title">The Deck</h1>
+        <p class="page-count">22 Cards / Major Arcana</p>
+      </div>
+    </header>
+
+    <main>
+      <div class="card-grid" id="card-grid">
+        <div class="loading">Loading...</div>
+      </div>
+    </main>
+
+    <footer>
+      <p>Cyberpunk Tarot</p>
+    </footer>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════
+       MODAL
+       ═══════════════════════════════════════════════════════════════ -->
+  <div class="modal" id="card-modal">
+    <button class="modal-close" aria-label="Close">[Close]</button>
+    <div class="modal-content">
+      <div class="modal-image-container">
+        <img class="modal-image" src="" alt="">
+      </div>
+      <div class="modal-info">
+        <p class="modal-number"></p>
+        <h2 class="modal-title"></h2>
+        <p class="modal-description"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,158 @@
+{
+  "majorArcana": [
+    {
+      "id": 0,
+      "title": "The Street Kid",
+      "image": "00-street-kid.png",
+      "description": "A young figure with blue hair sits against a concrete wall, head bowed beneath a neon sign. Torn jeans, yellow sneakers, a spray can at their feet. They have nothing but time and nerve—the city's margins are their classroom.",
+      "reading": "You stand at the beginning of something new. Maybe you feel unprepared, maybe you have nothing but your wits and your nerve—but that's enough. Trust your instincts. The path reveals itself only to those brave enough to take the first step. Leap."
+    },
+    {
+      "id": 1,
+      "title": "The Netrunner",
+      "image": "01-netrunner.png",
+      "description": "A masked figure in a long grey coat stands before an immense glowing portal—an intricate circular interface burning orange against blue machinery. Device in hand, they're ready to jack in. The gate to infinite data awaits.",
+      "reading": "You have all the tools you need. Your skills, your knowledge, your resourcefulness—they're waiting to be used. Stop doubting and start doing. The power to shape your reality is already in your hands. Execute."
+    },
+    {
+      "id": 2,
+      "title": "The Data Witch",
+      "image": "02-data-witch.png",
+      "description": "A woman with silver hair and cybernetic forearms cradles a glowing pink orb between her palms. Eyes closed, she reads its secrets. Behind her, a mechanical halo frames her head—part technology, part divination.",
+      "reading": "Something is hidden from you, but you already sense it. Trust that quiet voice, the one that notices what others miss. The truth is there in the patterns—you just need to stop looking and start seeing. Go deeper."
+    },
+    {
+      "id": 3,
+      "title": "The Greenhouse",
+      "image": "03-greenhouse.png",
+      "description": "A solitary figure walks a narrow path through an overgrown glass sanctuary. Lush plants press in from all sides, warm lights glowing among the leaves. Above, the greenhouse ceiling opens to a teal sky. Life persists.",
+      "reading": "Growth is happening, even if you can't see it yet. Nurture what you've planted—projects, relationships, yourself. Create the conditions for life to flourish and be patient. Something beautiful is taking root."
+    },
+    {
+      "id": 4,
+      "title": "The Corpo Exec",
+      "image": "04-corpo-exec.jpeg",
+      "description": "An older man with white hair and round glasses sits enthroned in his chair, vest and tie immaculate. The walls behind him overflow with framed pictures and machinery—trophies of a life spent accumulating power. He holds court.",
+      "reading": "It's time to take control. Structure, discipline, and clear boundaries will serve you now. You have more authority over your situation than you realize—own it. Make the hard calls. Lead."
+    },
+    {
+      "id": 5,
+      "title": "The Techno-Priest",
+      "image": "05-techno-priest.png",
+      "description": "A robed figure stands before a towering technological cathedral, its facade dense with circuitry and conduits. A great circular window glows above the entrance. The priest faces the machine-church, seeking communion with something vast.",
+      "reading": "Seek guidance from those who walked this path before you. There's wisdom in tradition, in mentors, in established ways of doing things. You don't have to figure this out alone. Learn from the source."
+    },
+    {
+      "id": 6,
+      "title": "The Link",
+      "image": "06-link.png",
+      "description": "Two hands reach toward each other across the void—fingertips almost touching. Behind them, a massive orange moon dominates the sky. Below, the city glitters at the edge of still water. Connection, suspended in a breath.",
+      "reading": "A significant choice stands before you—about connection, partnership, or values. This isn't about right or wrong; it's about alignment. What do you truly want? Who do you want to become with? Choose with your whole self."
+    },
+    {
+      "id": 7,
+      "title": "The Wheelman",
+      "image": "07-wheelman.png",
+      "description": "A weathered figure in a magenta coat and wide-brimmed hat sits atop a red machine, one arm draped over its massive golden wheel. Goggles pushed up, white hair catching the light. Behind them, a yellow moon rises. They've seen every road.",
+      "reading": "Momentum is on your side. You've got the drive and the direction—now push forward with everything you've got. Obstacles will blur past if you keep your focus sharp. Don't slow down. Accelerate."
+    },
+    {
+      "id": 8,
+      "title": "The Sea Wall",
+      "image": "08-sea-wall.png",
+      "description": "A vast concrete barrier stretches into the distance, separating the glittering city from dark waters. Streetlights line its edge like a strand of amber pearls. Small boats drift below. The wall holds, night after night.",
+      "reading": "You're stronger than you know. The pressure is real, but you can hold. This isn't about fighting—it's about enduring with grace. Find your inner resilience. You are the wall that doesn't break."
+    },
+    {
+      "id": 9,
+      "title": "The Offline",
+      "image": "09-offline.png",
+      "description": "An old figure in pale robes sits hunched beside a single glowing lantern. Behind them, a massive circular vault door—sealed, ancient, forgotten. They've chosen solitude. In the blue silence, they wait and remember.",
+      "reading": "Step back. Disconnect. The answers you're looking for won't come from more noise and input—they'll come from solitude and reflection. Take time alone to find your own signal in the static."
+    },
+    {
+      "id": 10,
+      "title": "The Market",
+      "image": "10-market.png",
+      "description": "An empty chair faces a cluttered trading desk. Above it, a massive screen blazes pink with jagged chart lines—fortunes rising and falling in real time. Scattered tools, a small golden idol. The wheel of commerce spins whether you watch or not.",
+      "reading": "Change is coming whether you're ready or not. The wheel turns—what's up goes down, what's down comes up. Don't cling too tightly to how things are. Adapt, roll with it, and trust the cycle."
+    },
+    {
+      "id": 11,
+      "title": "Enforcement",
+      "image": "11-enforcement.png",
+      "description": "A solitary officer stands in a cavernous industrial archway, helmet white and visor dark. Blue uniform, utility belt, patient stance. Above them, pipes and machinery fade into shadow. They are the law's presence, waiting.",
+      "reading": "Be honest with yourself. What's fair here? What do you actually deserve, and what are you pretending not to see? Accountability cuts both ways. Accept the consequences and deal with others fairly."
+    },
+    {
+      "id": 12,
+      "title": "The Test Patient",
+      "image": "12-test-patient.png",
+      "description": "A man in white sits motionless in a bright pink medical chair, hands folded, eyes closed. Monitors and tubes surround him like a mechanical cocoon. He has surrendered his body to the process. The machines hum and measure.",
+      "reading": "Let go. Stop struggling against the situation and see what it has to teach you. This pause, this suspension—it's not wasted time. A new perspective only comes when you stop trying to force the old one."
+    },
+    {
+      "id": 13,
+      "title": "Murder",
+      "image": "13-murder.png",
+      "description": "A body lies on a golden ceremonial disc, blood pooling red against the intricate engravings. Three figures stand over the scene—red armor, blue suit, brown coat. The investigation begins. Something has ended violently.",
+      "reading": "Something must end. A chapter, a habit, a version of yourself—it's time to let it die. This isn't loss; it's transformation. You can't carry the old into the new. Release your grip and let it go."
+    },
+    {
+      "id": 14,
+      "title": "Cyberware",
+      "image": "14-cyberware.png",
+      "description": "A woman in profile, head wrapped in pink floral cloth, gazes downward. Her right arm is fully mechanical—white plating, red panels, golden joints—while her left hand remains flesh. Two natures in one body, balanced.",
+      "reading": "Find your balance. You're being pulled in different directions—moderation is the path through. Integrate the opposing forces in your life rather than choosing one extreme. Harmony comes from synthesis."
+    },
+    {
+      "id": 15,
+      "title": "The Corp",
+      "image": "15-corp.png",
+      "description": "Twin smokestacks belch massive clouds of red and orange into a grey sky, flames visible at their bases. Industrial buildings crouch below, dark and angular. The machine feeds itself, consuming and producing without end.",
+      "reading": "Look at what's binding you. What comfort or security are you trading your freedom for? The chains might be golden, but they're still chains. Name the addiction, the dependency, the fear that keeps you trapped."
+    },
+    {
+      "id": 16,
+      "title": "The Mega Building",
+      "image": "16-mega-building.png",
+      "description": "A black tower pierces the sky, engulfed in flames from base to peak. Fire billows from its windows, red clouds swirling around its spire. The surrounding city watches its giant fall. What was built is being unmade.",
+      "reading": "Disruption is here or coming soon. Something you thought was solid is shaking. This destruction, as painful as it is, clears away what was built on false foundations. Let it fall. Rebuild better."
+    },
+    {
+      "id": 17,
+      "title": "The Rocket",
+      "image": "17-rocket.png",
+      "description": "A silver rocket climbs on a pillar of fire and smoke, rising from a coastal city at dusk. The moon hangs in a blue sky. Buildings cluster at the water's edge, watching the ascent. Something is leaving this world behind.",
+      "reading": "Hope is not naive—it's necessary. After the hardship, after the collapse, this is your sign to believe again. Something is guiding you toward healing. Keep your eyes on the stars and trust the trajectory."
+    },
+    {
+      "id": 18,
+      "title": "The Holo Ad",
+      "image": "18-holo-ad.png",
+      "description": "Towering holographic billboards blaze orange and gold between grey buildings, their screens filled with glowing faces and promises. Tiny figures walk below, bathed in artificial light. The advertisements loom like false gods.",
+      "reading": "Not everything is as it appears. Someone or something is presenting an illusion—maybe even you to yourself. Don't make decisions in the dark. Wait for clarity, question your assumptions, and look past the projection."
+    },
+    {
+      "id": 19,
+      "title": "The Reactor",
+      "image": "19-reactor.png",
+      "description": "A massive cylindrical reactor dominates the center of a dense city, flames and light pouring from its open top. Streets radiate outward like spokes, packed with buildings and tiny figures. The city's heart burns bright.",
+      "reading": "Yes. This is your moment of clarity and success. Energy, vitality, and joy are available to you right now. Step into the light, celebrate what's working, and let yourself feel good about where you are."
+    },
+    {
+      "id": 20,
+      "title": "Reboot",
+      "image": "20-reboot.png",
+      "description": "A tangle of industrial pipes—blue, rust, grey—converges around a weathered white panel. At its center: a single red button, waiting. Wires spill from below. One press and everything starts over.",
+      "reading": "You're being called to rise. A past version of you, a past project, a past purpose—it's ready to come back online. Answer the call. This is your second chance, your resurrection. Wake up."
+    },
+    {
+      "id": 21,
+      "title": "The City",
+      "image": "21-city.png",
+      "description": "The metropolis stretches to every horizon, towers rising into blue haze, windows glowing orange in the endless dusk. No edges, no end—just density and light and the hum of millions of lives layered on top of each other.",
+      "reading": "Completion. You've come full circle—take a moment to recognize how far you've traveled. Integration, wholeness, accomplishment. Before the next cycle begins, honor this one. You made it. You're here."
+    }
+  ]
+}
